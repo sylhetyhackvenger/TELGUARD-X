@@ -1,6 +1,7 @@
-TELGUARD-X v4.0
-
-
+# TELGUARD-X v4.0
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 TELGUARD-X v4.0 is an advanced mobile network penetration testing framework designed for GTP (GPRS Tunneling Protocol) host discovery, 5G core network analysis, and comprehensive security assessment of telecommunications infrastructure.
 
 🔥 Features
@@ -77,7 +78,9 @@ sudo python telguard-x.py -t 10.0.0.1 --api-test --auth-test --container-detect 
 # Stealth scan with custom ports
 sudo python telguard-x.py -t 192.168.1.0/24 --stealth -p 80,443,2123,2152,8805,36412,38412,3868
 ```
-
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 📊 Example Commands
 
 ```bash
